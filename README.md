@@ -34,9 +34,9 @@ To run a script, navigate to the directory where the script is located and type 
 
 Here are the scripts in this repository:
 
-- `script1.sh`: Description of script 1.
-- `script2.sh`: Description of script 2.
-- `script3.sh`: Description of script 3.
+- `topic1.sh`: Description of topic 1.
+- `topic2.sh`: Description of topic 2.
+- `topic3.sh`: Description of topic 3.
 
 Feel free to use these scripts as examples or starting points for your own scripts.
 
