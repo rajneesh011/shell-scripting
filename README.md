@@ -1,4 +1,4 @@
-Sure, here's an updated version of the `README.md` code with some cool icons and images:
+
 
 # Shell Script Learning
 
@@ -27,7 +27,7 @@ To run a script, navigate to the directory where the script is located and type 
 ```
 
 <p align="center">
-  <img src="https://img.icons8.com/nolan/96/github.png" alt="GitHub" width="100"/>
+  <img src="https://e7.pngegg.com/pngimages/1010/961/png-clipart-white-and-red-next-and-previous-logo-computer-icons-source-code-html-coding-search-engine-optimization-text.png" alt="GitHub" width="100"/>
 </p>
 
 ## Scripts
@@ -41,7 +41,7 @@ Here are the scripts in this repository:
 Feel free to use these scripts as examples or starting points for your own scripts.
 
 <p align="center">
-  <img src="https://img.icons8.com/plasticine/100/000000/pull-request.png" alt="Pull Request" width="100"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6577/6577277.png" alt="Pull Request" width="100"/>
 </p>
 
 ## Contributing
