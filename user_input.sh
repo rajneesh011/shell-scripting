@@ -10,7 +10,7 @@ echo "$string1 and your number is: $num1"
 #
 #
 #
-# Enter default data is no input is given by the user:
+## Enter default data is no input is given by the user:
 
 echo "enter your name: "
 read name
