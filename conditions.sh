@@ -5,7 +5,7 @@ read num
 if [ $num -gt 0 ] # 
 then
         echo "number is positive"
-elif [ $num -lt 0 ]
+elif [ $num -lt 0 ] # elif if used as else if 
 then
         echo "number is negative"
 else
@@ -16,3 +16,4 @@ fi
 # if the number is greater then 0 then print "POSITIVE"
 # if the number is less then 0 then print "NEGATIVE"
 # in other conditions print "zero"
+
